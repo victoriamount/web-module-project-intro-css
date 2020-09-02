@@ -21,11 +21,11 @@ The styles in your [design file](/design/desktop.jpg) include bright colors and 
 
 Follow these steps to set up and work on your project:
 
-- [ ] Create a forked copy of this project.
-- [ ] Add your Team Lead as collaborator on Github.
-- [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+- [ X] Create a forked copy of this project.
+- [ X] Add your Team Lead as collaborator on Github.
+- [ X] Clone your OWN version of the repository (Not Lambda's by mistake!).
+- [ X] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [ X] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
 - [ ] Push commits: git push -u origin `<firstName-lastName>`.
 
 ### Task 2: Minimum Viable Product
@@ -44,7 +44,7 @@ Once your repository is set up, practice what you learned today to style the sit
 - [ ] Color the background of the main text body with `#DDB9A3`
 - [ ] Color the background of the footer with `#F9E7DC`
 - [ ] Bold the words "current fire restrictions" and "park entrance fee" according to the design file
-- [ ] Apply box model properties (content, padding, margin, and border) to all content such that your webpage matches the design file. This will include at least:
+- [ ] Apply box model properties (content, padding, margin, and border) to all content such that your webpage matches the design file. This will include at least: 
   - [ ] A round image in the header
   - [ ] Round corners on navigation and footer items
   - [ ] Header image and text side by side
