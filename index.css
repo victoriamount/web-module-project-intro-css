@@ -100,7 +100,8 @@ a {
 
 footer {
     background-color:#F9E7DC;
-    height: 20vh;
+    height: 18vh;
+    padding-top: 2%;
 }
 
 .footerPic {
