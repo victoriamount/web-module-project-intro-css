@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&family=Roboto+Mono&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@700&display=swap'); /* for bold characters */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@700&display=swap'); /*for bold characters*/
 /* Copy/Paste for fonts:  */
 /* font-family: 'Chelsea Market', cursive;  */
 /* font-family: 'Roboto Mono', monospace;  */
@@ -27,9 +27,7 @@
     font-size:62.5%;
   }
   body{
-    /* line-height:2; */
     font-family: 'Roboto Mono', monospace;
-    /* font-size: 1.4rem; */
   }
   h1 {
     font-family: 'Chelsea Market', cursive;
@@ -52,7 +50,7 @@ a {
     border-radius: 10px;
     color: white;
     text-decoration: none;
-    /* margin-bottom: 10px; */
+    margin-bottom: 5px;
     width: 15%;
     text-align: center;
     font-size: 1.5rem;
@@ -86,7 +84,7 @@ a {
 
 
 /* BODY BACKGROUND COLORS */
-#quickLook .quickLookText {
+.quickLookText {
     background-color: #DDB9A3;
     width: 90%;
     margin: 20px auto;
@@ -115,7 +113,7 @@ footer {
 /* TITLE AREA ARRANGEMENT */
 .picWithTitle {
     width: 85%;
-    margin: 0 auto;
+    margin: 0 auto 10px;;
 }
 
 .picWithTitle img {
