@@ -126,6 +126,7 @@ footer {
     width: 60%;
     margin: 10px 0 0 12%;
     font-size: 1.4rem;
+    top: 50%;
 }
 .topText p {
     padding-top: 20px;
