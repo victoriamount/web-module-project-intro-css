@@ -118,18 +118,19 @@ footer {
 
 .picWithTitle img {
     display: inline-block;
+    margin-top: 2vh;
 }
 
 .topText {
     display: inline-block;
     text-align: center;
     width: 60%;
-    margin: 10px 0 0 12%;
+    margin: 5vh 0 0 12%;
     font-size: 1.4rem;
-    top: 50%;
+
 }
 .topText p {
-    padding-top: 20px;
+    padding-top: 15px;
 }
 
 /* ICON INFO SECTION LAYOUT */
